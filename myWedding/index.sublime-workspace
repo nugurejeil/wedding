@@ -1,0 +1,186 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jaehyunhan/Desktop/Materiable원본/Materiable/index.html",
+		"/Users/jaehyunhan/Desktop/Materiable원본/Materiable/css/custom.css",
+		"/Volumes/Transcend/Materiable원본/Materiable/index.html",
+		"/Users/jaehyunhan/Downloads/PDPopDownload/[번역] 파렴치 마리아쥬/Harenchi Mariage - otabe sakura/Info.json",
+		"/Users/jaehyunhan/Downloads/PDPopDownload/Kimochi Ii Musume - She feels so good - e-musu aki/Info.json",
+		"/Users/jaehyunhan/Downloads/aws-serverless-workshops-master-3/MultiRegion/2_UI/src/assets/js/aws/aws-sdk.js",
+		"/Users/jaehyunhan/Downloads/aws-serverless-workshops-master-3/WebApplication/1_StaticWebHosting/website/js/config.js",
+		"/Applications/Adobe Photoshop CC 2018/Presets/Scripts/ArtboardExport.inc",
+		"/Users/jaehyunhan/Desktop/day1.html",
+		"/Users/jaehyunhan/Desktop/내 범위/j023.html",
+		"/Users/jaehyunhan/Desktop/거리차",
+		"/Users/jaehyunhan/Desktop/내 범위/j016.html",
+		"/Users/jaehyunhan/Desktop/내 범위/j017.html",
+		"/Users/jaehyunhan/Desktop/내 범위/j019.html",
+		"/Users/jaehyunhan/Desktop/내 범위/j017_1.html",
+		"/Users/jaehyunhan/Downloads/예제/javascript문제1_건이풀이.html",
+		"/Users/jaehyunhan/Downloads/예제/j027.html",
+		"/new.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
