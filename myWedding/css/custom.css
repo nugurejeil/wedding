@@ -672,14 +672,14 @@ header.inside-header.image-header {
 .swiper-container .swiper-slide .title {
   font-weight: 100;
   width: 100%;
-  color: #fff;
+  color: mintcream;
 }
 .swiper-container .swiper-slide .subtitle {
   font-size: 30px;
   font-weight: 100;
   margin-top: 30px;
   width: 100%;
-  color: #eee;
+  color: mintcream;
 }
 .swiper-container .swiper-slide .text p, .swiper-container .swiper-slide .text {
   font-size: 'Roboto';
@@ -1034,7 +1034,7 @@ header.inside-header.image-header {
 }
 
 #contact {
-  background: #6a7fdb;
+  background: #fff;
   padding-top: 50px;
   padding-bottom: 0px;
   z-index: 5;
@@ -1658,7 +1658,7 @@ header.inside-header.image-header {
   height: auto;
   width: 100%;
 }
-.portfolio .items-list .item:hover .caption {
+/*.portfolio .items-list .item:hover .caption {
   opacity: 1;
   top: 0px;
   -webkit-transition: all .3s;
@@ -1679,7 +1679,7 @@ header.inside-header.image-header {
   text-align: center;
   vertical-align: middle;
   top: 0px;
-}
+}*/
 .portfolio .items-list .item .caption h4 {
   color: #fff;
   font-size: 22px;
@@ -1837,6 +1837,25 @@ footer .footer-copyright a:hover {
     height:353px;
     background:black;
   }
+
+#costomBtn_zoom .caption .fancybox{
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    border:0;
+}
+
+.custom_txt{
+  position:absolute;
+  top:0;
+}
+
+.custom_blockSlide{
+  touch-action: none;
+}
 /***********************************************************************************
  *  + RESPONSIVE
  ***********************************************************************************/
