@@ -1848,10 +1848,30 @@ footer .footer-copyright a:hover {
     border:0;
 }
 
-.custom_txt{
+#custom_style .custom_txt{
   position:absolute;
   top:0;
 }
+
+#custom_style .custom_txt h4, #custom_style .custom_txt h5{
+  font-size: 18px
+}
+
+#custom_style .custom_txt .title{
+  font-size: 25px
+}
+#custom_style .custom_txt .subtitle{
+  line-height: 1.5
+}
+
+#custom_style .custom_font strong, #custom_style .custom_font p, #custom_style .custom_font h2, #custom_style .custom_font h3, #custom_style .custom_font h4, #custom_style .custom_font h5{
+  font-family: 'Noto Serif KR', serif;
+}
+
+#custom_style .txt_invitation{
+  font-size: 2rem
+}
+
 
 /***********************************************************************************
  *  + RESPONSIVE
