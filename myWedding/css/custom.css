@@ -1872,6 +1872,17 @@ footer .footer-copyright a:hover {
   font-size: 2rem
 }
 
+#custom_style .txt_marry{
+  margin-top:15px;
+}
+#custom_style .txt_marry+.txt_marry{
+  margin:5px 0 17px;
+}
+
+#custom_style .custom_txt_sub{
+  margin-top:10px;
+}
+
 
 /***********************************************************************************
  *  + RESPONSIVE
