@@ -682,7 +682,6 @@ header.inside-header.image-header {
   color: mintcream;
 }
 .swiper-container .swiper-slide .text p, .swiper-container .swiper-slide .text {
-  font-size: 'Roboto';
   font-size: 14px;
   line-height: 1.3;
   width: 100%;
@@ -1861,6 +1860,7 @@ footer .footer-copyright a:hover {
   font-size: 25px
 }
 #custom_style .custom_txt .subtitle{
+  width:205px;
   line-height: 1.5
 }
 
