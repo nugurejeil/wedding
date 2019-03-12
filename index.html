@@ -286,7 +286,7 @@
 
   <!-- Jquery Lib -->
   <script src="js/jquery-2.2.1.min.js"></script>
-  
+
   <!-- Materialize Lib -->
   <script src="js/materialize.js"></script>
   
@@ -330,6 +330,8 @@
     var marker = new daum.maps.Marker({
         position: markerPosition
     });
+    // 지도의 드레그 이동을 막습니다.
+    map.setDraggable(false);  
 
 // 마커가 지도 위에 표시되도록 설정합니다
 marker.setMap(map);
