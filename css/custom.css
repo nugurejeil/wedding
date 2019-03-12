@@ -877,8 +877,8 @@ header.inside-header.image-header {
 #last_portfolio {
   background-color: #323133;
   z-index: 9;
-  padding: 35px 0;
   min-height: 610px;
+  margin-top:-30px;
 }
 #last_portfolio .btn {
   margin: 10px 10px;
@@ -1034,15 +1034,14 @@ header.inside-header.image-header {
 
 #contact {
   background: #fff;
-  padding-top: 50px;
-  padding-bottom: 0px;
   z-index: 5;
   color: #616161;
+  padding:0;
 }
 #contact .contact-block {
   background: #fff;
   border-radius: 2px 2px 0 0;
-  padding: 35px 50px 20px;
+  padding: 25px 50px 20px;
 }
 #contact h5 {
   color: #616161;
@@ -1071,7 +1070,7 @@ header.inside-header.image-header {
   margin-left: 8px;
 }
 #contact .contact-info {
-  margin-top: 40px;
+  margin-top: 20px;
 }
 #contact .contact-info p {
   margin-bottom: 10px;
@@ -2114,7 +2113,7 @@ footer .footer-copyright a:hover {
   }
 
   #team .wow {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 
   .portfolio .items-list .item .caption h4 {
@@ -2228,7 +2227,7 @@ footer .footer-copyright a:hover {
     font-size:20px;
   }
   #contact .contact-block{
-    padding: 35px 20px 20px;
+    padding: 25px 20px 20px;
   }
 
 }
